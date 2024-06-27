@@ -37,7 +37,7 @@
             <td>Self-driving drone using YOLO & RL</td>
         </tr>
         <tr>
-            <td>LG Aimers 5기</td>
+            <td>LG Aimers 5th</td>
             <td>2024-07 ~ 2024-09</td>
             <td>Phase1 : AI online course (7.1 ~ 7.26)<br>
                 Phase2 : Online Hackathon (8.1 ~ 8,27)<br>
