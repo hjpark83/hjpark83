@@ -13,28 +13,32 @@
         🔥 I'm interested in Artificial Intelligence especially Computer Vision.</br>
 </div>
 
-<div style="text-align: left;">
+<div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">💻 Activity</h2>
     <table border="1" style="width: 100%; color: #c9d1d9;">
         <tr>
             <th>TITLE</th>
             <th>PERIOD</th>
             <th>SUBJECT</th>
+            <th>PROFESSOR</th>
         </tr>
         <tr>
             <td>NAVER BoostCourse - AI Engineer </td>
             <td>2024-01 ~ 2024-03</td>
             <td>Study Machine Learning & Deep Learning + alpha (NLP, CV)</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>HYU HUHS</td>
             <td>2023-09 ~ 2024-02</td>
             <td>Hanyang University Computer Club</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Capstone S/W Project</td>
             <td>2024-02 ~ 2024-11</td>
             <td>Self-driving drone using YOLO & RL</td>
+            <td>Sungyoon Lee</td>
         </tr>
         <tr>
             <td>LG Aimers 5th</td>
@@ -42,6 +46,7 @@
             <td>Phase1 : AI online course (7.1 ~ 7.26)<br>
                 Phase2 : Online Hackathon (8.1 ~ 8,27)<br>
                 Phase3 : Offline Hackathon (9.28 ~ 9.29)</td>
+            <td>-</td>
         </tr>
     </table>
 
