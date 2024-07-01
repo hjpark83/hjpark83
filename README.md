@@ -25,7 +25,7 @@
         <tr>
             <td>NAVER BoostCourse - AI Engineer </td>
             <td>2024-01 ~ 2024-03</td>
-            <td>Study Machine Learning & Deep Learning + alpha (NLP, CV)</td>
+            <td>Study ML & DL + alpha (NLP, CV)</td>
             <td>-</td>
         </tr>
         <tr>
