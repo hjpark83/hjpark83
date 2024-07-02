@@ -9,7 +9,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"></div>
         👋 Hi, I'm Hyunjoon currently studying in the Department of Computer Software at Hanyang University.</br>
         🌏 I'm from South Korea and living in Seoul.</br> 
-<!--         🔭 I'm currently majoring in Computer science and Software engineering at Hanyang University.</br> -->
+        🔭 I am an undergraduate research student at the CVLab, Hanyang University..</br>
         🔥 I'm interested in Artificial Intelligence especially Computer Vision.</br>
 </div>
 
@@ -75,7 +75,7 @@
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">📩 Contact me</h2>
     <div style="text-align: left;">
         <a href="https://www.instagram.com/hjpark_83"> 
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/hjpark_83"></a>
