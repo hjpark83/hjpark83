@@ -51,7 +51,7 @@
         <tr>
             <td>CVLab</td>
             <td>2024-07 ~ </td>
-            <td>Research Intern</td>
+            <td>Undergraduate Research Intern</td>
             <td>Donghyeon Cho</td>
         </tr>
     </table>
