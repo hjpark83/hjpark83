@@ -19,7 +19,7 @@
         <tr>
             <th>TITLE</th>
             <th>PERIOD</th>
-            <th>SUBJECT</th>
+            <th>CONTENT</th>
             <th>PROFESSOR</th>
         </tr>
         <tr>
@@ -47,6 +47,12 @@
                 Phase2 : Online Hackathon (8.1 ~ 8,27)<br>
                 Phase3 : Offline Hackathon (9.28 ~ 9.29)</td>
             <td>-</td>
+        </tr>
+        <tr>
+            <td>CVLab</td>
+            <td>2024-07 ~ </td>
+            <td>Research Intern</td>
+            <td>Donghyeon Cho</td>
         </tr>
     </table>
 
