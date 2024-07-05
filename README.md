@@ -49,7 +49,7 @@
             <td>-</td>
         </tr>
         <tr>
-            <td>CVLab</td>
+            <td>HYU CVLab</td>
             <td>2024-07 ~ </td>
             <td>Undergraduate Research Intern</td>
             <td>Donghyeon Cho</td>
