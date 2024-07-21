@@ -9,7 +9,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"></div>
         👋 Hi, I'm Hyunjoon currently studying in the Department of Computer Software at Hanyang University.</br>
         🌏 I'm from South Korea and living in Seoul.</br> 
-        🔭 I am an undergraduate research student at the CVLab, Hanyang University..</br>
+        🔭 I am an undergraduate research student at the CVLab, Hanyang University. (Prof. Donghyeon Cho)</br>
         🔥 I'm interested in Artificial Intelligence especially Computer Vision.</br>
 </div>
 
