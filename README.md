@@ -65,6 +65,7 @@
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black">
         <br/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
@@ -73,6 +74,7 @@
         <img src="https://img.shields.io/badge/Markdown-4682B4?style=flat&logo=Markdown&logoColor=white">
     </div>
 </div>
+
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">📩 Contact me</h2>
