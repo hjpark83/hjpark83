@@ -11,7 +11,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"></div>
         👋 Hi, My name is Hyunjoon currently studying in the Department of Computer Software at Hanyang University.</br>
         🌏 I'm from South Korea and living in Seoul.</br> 
-        🔭 I belong to Hanyang University Computer Vision Lab as an undergraduate intern (Prof. Donghyeon Cho)</br>
+        🔭 I am an undergraduate intern at Hanyang University Computer Vision Lab (Prof. Donghyeon Cho)</br>
         🔎 My research interests are Object detection, Pose estimation and 3D vision.</br>
 </div>
 
