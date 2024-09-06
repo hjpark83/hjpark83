@@ -4,8 +4,6 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunjoon83&count_bg=%23647CE7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 
-### [Certificate](https://hjcertification.notion.site/Certificate-89bdbf89012b474fa2862cf863d9d7ac)
-
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">:bowtie: Introduce</h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"></div>
@@ -58,6 +56,12 @@
         </tr>
     </table>
 
+</div>
+
+<div style="text-align: center;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+        🏆<a href="https://hjcertification.notion.site/Certificate-89bdbf89012b474fa2862cf863d9d7ac" style="color: #c9d1d9; text-decoration: none;">Certificate</a>
+    </h2>
 </div>
 
 <div style="text-align: left;">
