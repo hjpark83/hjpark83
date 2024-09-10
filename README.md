@@ -93,6 +93,8 @@
             <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/hyunjoon83/"></a>
         <a href="https://velog.io/@hyunjoon0803"> 
             <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@hyunjoon0803"></a>
+        <a href="https://phj6724.tistory.com/">
+            <img src="https://img.shields.io/badge/Tistory-FF7700?style=flat&logo=Tistory&logoColor=white&link=https://YOUR_TISTORY_BLOG_LINK_HERE"></a>
     </div>
 </div>
 
