@@ -23,15 +23,15 @@
             <th>PROFESSOR</th>
         </tr>
         <tr>
-            <td>NAVER BoostCourse - AI Engineer </td>
-            <td>2024-01 ~ 2024-03</td>
-            <td>Study ML & DL + alpha (NLP, CV)</td>
-            <td>-</td>
-        </tr>
-        <tr>
             <td>HYU HUHS</td>
             <td>2023-09 ~ 2024-02</td>
             <td>Hanyang University Computer Club</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>NAVER BoostCourse - AI Engineer </td>
+            <td>2024-01 ~ 2024-03</td>
+            <td>Study ML & DL + alpha (NLP, CV)</td>
             <td>-</td>
         </tr>
         <tr>
