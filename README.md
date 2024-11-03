@@ -37,7 +37,7 @@
         <tr>
             <td>Capstone S/W Project</td>
             <td>2024-02 ~ 2024-11</td>
-            <td>Self-driving drone using YOLO & RL</td>
+            <td>3D Synthesized Space reconstruction using 3DGS</td>
             <td>Sungyoon Lee</td>
         </tr>
         <tr>
