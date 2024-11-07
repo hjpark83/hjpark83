@@ -10,7 +10,7 @@
         👋 Hi, My name is Hyunjoon currently studying in the Department of Computer Software at Hanyang University.</br>
         🌏 I'm from South Korea and living in Seoul.</br> 
         🔭 I am an undergraduate intern at Hanyang University Computer Vision Lab (Prof. Donghyeon Cho)</br>
-        🔎 My research interests are Pose estimation (6Dof), Reinforcement Learning and 3D vision.</br>
+        🔎 My research interests are 3D Vision especially 3D Human Reconstruction, 3D Gaussian Splatting, and Reinforcement Learning.</br>
 </div>
 
 <div style="text-align: center;">
