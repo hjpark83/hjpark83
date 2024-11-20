@@ -37,7 +37,7 @@
         <tr>
             <td>Capstone S/W Project</td>
             <td>2024-02 ~ 2024-11</td>
-            <td><a href="https://github.com/Capstone-SW-Project/3D-Synthesized-Space-Reconstruction-using-3DGS" style="color: #c9d1d9; text-decoration: none;"> 3D Synthesized Space reconstruction using 3DGS</a></td>
+            <td>3D Synthesized Space reconstruction using 3DGS</td>
             <td>Sungyoon Lee</td>
         </tr>
         <tr>
