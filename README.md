@@ -13,50 +13,7 @@
         🔎 My research interests are 3D Vision especially 3D Human Reconstruction, 3D Gaussian Splatting, and Reinforcement Learning.</br>
 </div>
 
-<div style="text-align: center;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">💻 Activity</h2>
-    <table border="1" style="width: 100%; color: #c9d1d9;">
-        <tr>
-            <th>TITLE</th>
-            <th>PERIOD</th>
-            <th>CONTENT</th>
-            <th>PROFESSOR</th>
-        </tr>
-        <tr>
-            <td>HYU HUHS</td>
-            <td>2023-09 ~ 2024-02</td>
-            <td>Hanyang University Computer Club</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>NAVER BoostCourse - AI Engineer </td>
-            <td>2024-01 ~ 2024-03</td>
-            <td>Study ML & DL + alpha (NLP, CV)</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>Capstone S/W Project</td>
-            <td>2024-02 ~ 2024-11</td>
-            <td>3D Synthesized Space reconstruction using 3DGS</td>
-            <td>Sungyoon Lee</td>
-        </tr>
-        <tr>
-            <td>LG Aimers 5th</td>
-            <td>2024-07 ~ 2024-09</td>
-            <td>Phase1 : AI online course (7.1 ~ 7.26)<br>
-                Phase2 : Online Hackathon (8.1 ~ 8,27)<br>
-                Phase3 : Offline Hackathon (9.28 ~ 9.29)</td>
-            <td>-</td>
-        </tr>
-        <tr>
-            <td>HYU CVLab</td>
-            <td>2024-07 ~ </td>
-            <td>Undergraduate Research Intern</td>
-            <td>Donghyeon Cho</td>
-        </tr>
-    </table>
 
-</div>
 
 <div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
@@ -71,10 +28,7 @@
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black">
-        <br/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
         <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white">
         <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white">
         <img src="https://img.shields.io/badge/Markdown-4682B4?style=flat&logo=Markdown&logoColor=white">
@@ -92,7 +46,7 @@
         <a href="https://www.linkedin.com/in/hyunjoon83/"> 
             <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/hyunjoon83/"></a>
         <a href="https://phj6724.tistory.com/">
-            <img src="https://img.shields.io/badge/Tistory-FF7700?style=flat&logo=Tistory&logoColor=white&link=https://YOUR_TISTORY_BLOG_LINK_HERE"></a>
+            <img src="https://img.shields.io/badge/Tistory-FF7700?style=flat&logo=Tistory&logoColor=white&link=https://phj6724.tistory.com"></a>
         <a href="https://velog.io/@hyunjoon0803"> 
             <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@hyunjoon0803"></a>
     </div>
