@@ -23,16 +23,21 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
-    <div style="margin: 10px; text-align: left;">
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
-        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white">
-        <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white">
-        <img src="https://img.shields.io/badge/Markdown-4682B4?style=flat&logo=Markdown&logoColor=white">
-    </div>
+
+### Languages
+<!--![C++](https://img.shields.io/badge/C_&_C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C♯-994892.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)-->
+![Language](https://skillicons.dev/icons?i=c,cpp,python,java,postgresql)
+
+### Framework & Libraries
+![Framework](https://skillicons.dev/icons?i=anaconda,pytorch,opencv,tensorflow)
+
+### Using Tools
+<!--![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)-->
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,linux)
+
 </div>
 
 
