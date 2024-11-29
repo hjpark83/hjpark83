@@ -21,28 +21,22 @@
     </h2>
 </div>
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
+## 🛠️ Tech Stacks
 
 ### Languages
-<!--![C++](https://img.shields.io/badge/C_&_C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C♯-994892.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)-->
 ![Language](https://skillicons.dev/icons?i=c,cpp,python,java,postgresql)
 
 ### Framework & Libraries
 ![Framework](https://skillicons.dev/icons?i=anaconda,pytorch,opencv,tensorflow)
 
 ### Using Tools
-<!--![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)-->
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,linux)
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,linux,docker)
 
 </div>
 
+## 📩 Contact me
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">📩 Contact me</h2>
     <a href="mailto:hyunjoonpark0803@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
     </a>
@@ -53,7 +47,6 @@
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
     </a>
 </div>
-
 
 ---
 
