@@ -10,7 +10,7 @@
         👋 Hi, My name is Hyunjoon currently studying in the Department of Computer Software at Hanyang University.</br>
         🌏 I'm from South Korea and living in Seoul.</br> 
         🔭 I am an undergraduate intern at Hanyang University Computer Vision Lab (Prof. Donghyeon Cho)</br>
-        🔎 My research interests are 3D Vision especially 3D Human Reconstruction, 3D Gaussian Splatting, and Reinforcement Learning.</br>
+        🔎 My research interests are 3D Vision especially 3D Human Reconstruction, 3D Gaussian Splatting.</br>
 </div>
 
 
@@ -19,19 +19,6 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
         🏆<a href="https://hjcertification.notion.site/Certificate-89bdbf89012b474fa2862cf863d9d7ac" style="color: #c9d1d9; text-decoration: none;"> Certificate</a>
     </h2>
-</div>
-
-## 🛠️ Tech Stacks
-
-### Languages
-![Language](https://skillicons.dev/icons?i=c,cpp,python,java,postgresql)
-
-### Framework & Libraries
-![Framework](https://skillicons.dev/icons?i=anaconda,pytorch,opencv,tensorflow)
-
-### Using Tools
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,linux,docker)
-
 </div>
 
 ## 📩 Contact me
