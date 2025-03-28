@@ -16,6 +16,8 @@
         🔎 My research interests are 3D Vision especially 3D Human Reconstruction, 3D Gaussian Splatting.</br>
 </div>
 
+## [🎖️ Certificate](https://hjcertification.notion.site/Certificate-89bdbf89012b474fa2862cf863d9d7ac)
+
 
 ## 💪 Skills
 
