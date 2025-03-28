@@ -65,5 +65,5 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/hjpark83/hjpark83/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/hjpark83/hjpark83/blob/output/github-contribution-grid-snake2.svg)
 
