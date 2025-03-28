@@ -63,7 +63,7 @@
 
 ## 🎯 Contribution
 
-<img src="https://raw.githubusercontent.com/hjpark83/hjpark83/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
+![Snake animation](https://raw.githubusercontent.com/hjpark83/hjpark83/output/github-contribution-grid-snake-dark.svg)
 
-###
