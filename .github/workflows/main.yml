@@ -14,12 +14,12 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          USERNAME: hjpark83
+          USERNAME: ${{github.repository_owner}}
       - name: Commit & Push
         run: |
-          git config user.name "hjpark83"
-          git config user.email "junippini83@hanyang.ac.kr"
-          git add .
-          if git commit -m "generated"; then
-            git push
-          fi
+          git config user.name hjpark83
+          git config user.email junippini83@hanyang.ac.kr
+          git remote set-url origin https://github.com/hjpark83/hjpark83.git
+          git add -A .
+          git commit -m "generated"
+          git push origin main
