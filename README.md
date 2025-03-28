@@ -2,6 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=Venom&color=FF0084&height=150&section=header&text=Welcome%20to%20my%20Hub!😊&fontColor=0063DC&fontSize=70" />
 </div>
 
+<div align="left">
+  <img src="https://profile-counter.glitch.me/hjpark83/count.svg?"  />
+</div>
+
 ## 👋 Introduce
 
 <div style="text-align: left;">
@@ -47,6 +51,10 @@
   <a href="https://discordapp.com/users/hyunjoon83" target=" blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
+      
+## 🎯 Contribution
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 📈 Stat
 
@@ -56,12 +64,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hjpark83&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hjpark83&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/hjpark83/count.svg?"  />
-</div>
-
-## 🎯 Contribution
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
