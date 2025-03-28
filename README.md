@@ -2,11 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=Venom&color=FF0084&height=150&section=header&text=Welcome%20to%20my%20Hub!😊&fontColor=0063DC&fontSize=70" />
 </div>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunjoon83&count_bg=%23647CE7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
+## 👋 Introduce
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">:bowtie: Introduce</h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"></div>
+    <div style="font-weight: 700; font-size: 13px; text-align: left; color: #c9d1d9;"></div>
         👋 Hi, My name is Hyunjoon currently studying in the Department of Computer Software at Hanyang University.</br>
         🌏 I'm from South Korea and living in Seoul.</br> 
         🔭 I am an undergraduate intern at Hanyang University Computer Vision Lab (Prof. Donghyeon Cho)</br>
@@ -14,28 +13,61 @@
 </div>
 
 
+## 💪 Skills
 
-<div style="text-align: center;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-        🏆<a href="https://hjcertification.notion.site/Certificate-89bdbf89012b474fa2862cf863d9d7ac" style="color: #c9d1d9; text-decoration: none;"> Certificate</a>
-    </h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
 </div>
 
 ## 📩 Contact me
 
-<div style="text-align: left;">
-    <a href="mailto:hyunjoonpark0803@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/hyunjoon83/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://www.instagram.com/hjpark_83">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
-    </a>
+###
+
+<div align="left">
+  <a href="hyunjoonpark0803@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/hjpark_83" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/hyunjoon83/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
----
+## 📈 Stat
 
-![contrib](https://github-readme-stats.vercel.app/api?username=hjpark83&theme=monokai&show_icons=true)
+###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hjpark83&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hjpark83&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/hjpark83/count.svg?"  />
+</div>
+
+## 🎯 Contribution
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
+
+###
