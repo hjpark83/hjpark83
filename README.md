@@ -2,10 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=Venom&color=FF0084&height=150&section=header&text=Welcome%20to%20my%20Hub!😊&fontColor=0063DC&fontSize=70" />
 </div>
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/hjpark83/count.svg?"  />
-</div>
-
 ## 👋 Introduce
 
 <div style="text-align: left;">
