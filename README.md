@@ -12,6 +12,17 @@
     
 </div>
 
+## 📞 Contact
+
+<div align="left"> 
+  <a href="hyunjoonpark0803@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hyunjoon83" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>    
+</div>
+
 ## 🎯 Contributions
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
