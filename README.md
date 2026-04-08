@@ -9,8 +9,14 @@
         👋 Hi, My name is Hyunjoon Park currently studying in the Department of Computer Software at Hanyang University.</br>
         🔭 I am pursuing a Master's degree at Hanyang University CVLab under the supervision of prof. Donghyeon Cho</br>
         🔎 My research interests are 3D Vision especially 3D Human Reconstruction, 3D Gaussian Splatting and Generative Models.</br>
-    
 </div>
+
+## 📝 Publications
+|Title|Author|Conference|
+|:--:|:--:|:--:|
+|Consistent Scene Understanding in 3D Gaussian Splatting via Multi-Cue Mask Refinement|**Hyunjoon Park**, Donghyeon Cho|ICPR 2026 (International Conference on Pattern Recognition)|
+
+>International Conference/Journal only
 
 ## 📞 Contact
 
@@ -24,6 +30,4 @@
 </div>
 
 ## 🎯 Contributions
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
