@@ -14,7 +14,7 @@
 ## 📝 Publications
 |Title|Author|Conference|Link|
 |:--:|:--:|:--:|:--:|
-|High-Resolution Artwork Outpainting with Global Blueprint Guidance and Layout Control|Junha Kim, <br>**Hyunjoon Park**, Donghyeon Cho|ECCV 2026 (European Conference on Computer Vision)|[Github](https://github.com/poohoh/BlueOut)<br>[arXiv](https://arxiv.org/abs/2607.06162)|
+|High-Resolution Artwork Outpainting with Global Blueprint Guidance and Layout Control|Junha Kim, <br>**Hyunjoon Park**, Donghyeon Cho|ECCV 2026 (European Conference on Computer Vision)|[Project Page](https://poohoh.github.io/BlueOut.github.io/)<br>[Github](https://github.com/poohoh/BlueOut)<br>[arXiv](https://arxiv.org/abs/2607.06162)|
 |Consistent Scene Understanding in 3D Gaussian Splatting via Multi-Cue Mask Refinement|**Hyunjoon Park**, Donghyeon Cho|ICPR 2026 (International Conference on Pattern Recognition)|[Project Page](https://hjpark83.github.io/consisGS.github.io/)<br>[Github](https://github.com/hjpark83/Consistent-Scene-Understanding-in-3DGS-via-MCM)<br>[arXiv](https://arxiv.org/abs/2607.01708)|
 
 >International Conference/Journal only
